@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "生活筆記",
+    "description": "",
+    "home_page_url": "https://felixhoi.github.io/felixhoi.github.io",
+    "feed_url": "https://felixhoi.github.io/felixhoi.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Felix Hoi"
+    },
+    "items": [
+        {
+            "id": "https://felixhoi.github.io/felixhoi.github.io/my-first-post.html",
+            "url": "https://felixhoi.github.io/felixhoi.github.io/my-first-post.html",
+            "title": "My First Post",
+            "summary": "Testing ",
+            "content_html": "<p>Testing </p>",
+            "author": {
+                "name": "Felix Hoi"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-05T01:28:22+08:00",
+            "date_modified": "2020-10-05T01:28:22+08:00"
+        }
+    ]
+}
