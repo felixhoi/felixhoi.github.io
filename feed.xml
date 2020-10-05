@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>生活筆記</title>
-    <link href="https://felixhoi.github.io/felixhoi.github.io/feed.xml" rel="self" />
-    <link href="https://felixhoi.github.io/felixhoi.github.io" />
+    <link href="https://felixhoi.github.io/feed.xml" rel="self" />
+    <link href="https://felixhoi.github.io" />
     <updated>2020-10-05T12:13:35+08:00</updated>
     <author>
         <name>Felix Hoi</name>
     </author>
-    <id>https://felixhoi.github.io/felixhoi.github.io</id>
+    <id>https://felixhoi.github.io</id>
 
     <entry>
         <title>別讓孩子遠離「危險」</title>
         <author>
             <name>Felix Hoi</name>
         </author>
-        <link href="https://felixhoi.github.io/felixhoi.github.io/hai-zi-de-jing-li.html"/>
-        <id>https://felixhoi.github.io/felixhoi.github.io/hai-zi-de-jing-li.html</id>
+        <link href="https://felixhoi.github.io/hai-zi-de-jing-li.html"/>
+        <id>https://felixhoi.github.io/hai-zi-de-jing-li.html</id>
             <category term="兒童教育"/>
 
         <updated>2020-10-05T12:13:35+08:00</updated>
@@ -77,8 +77,8 @@
         <author>
             <name>Felix Hoi</name>
         </author>
-        <link href="https://felixhoi.github.io/felixhoi.github.io/zi-you-bu-deng-yu-fang-zong.html"/>
-        <id>https://felixhoi.github.io/felixhoi.github.io/zi-you-bu-deng-yu-fang-zong.html</id>
+        <link href="https://felixhoi.github.io/zi-you-bu-deng-yu-fang-zong.html"/>
+        <id>https://felixhoi.github.io/zi-you-bu-deng-yu-fang-zong.html</id>
             <category term="兒童教育"/>
 
         <updated>2020-10-05T12:13:10+08:00</updated>
@@ -123,8 +123,8 @@
         <author>
             <name>Felix Hoi</name>
         </author>
-        <link href="https://felixhoi.github.io/felixhoi.github.io/bie-rang-xing-qu-ban-hui-liao-hai-zi-de-yi-sheng.html"/>
-        <id>https://felixhoi.github.io/felixhoi.github.io/bie-rang-xing-qu-ban-hui-liao-hai-zi-de-yi-sheng.html</id>
+        <link href="https://felixhoi.github.io/bie-rang-xing-qu-ban-hui-liao-hai-zi-de-yi-sheng.html"/>
+        <id>https://felixhoi.github.io/bie-rang-xing-qu-ban-hui-liao-hai-zi-de-yi-sheng.html</id>
             <category term="兒童教育"/>
 
         <updated>2020-10-05T10:53:31+08:00</updated>
@@ -227,8 +227,8 @@
         <author>
             <name>Felix Hoi</name>
         </author>
-        <link href="https://felixhoi.github.io/felixhoi.github.io/hai-zi-ai-ying.html"/>
-        <id>https://felixhoi.github.io/felixhoi.github.io/hai-zi-ai-ying.html</id>
+        <link href="https://felixhoi.github.io/hai-zi-ai-ying.html"/>
+        <id>https://felixhoi.github.io/hai-zi-ai-ying.html</id>
             <category term="兒童教育"/>
 
         <updated>2020-10-05T12:12:54+08:00</updated>
@@ -264,8 +264,8 @@
         <author>
             <name>Felix Hoi</name>
         </author>
-        <link href="https://felixhoi.github.io/felixhoi.github.io/jiang-di-dan-gu-chun.html"/>
-        <id>https://felixhoi.github.io/felixhoi.github.io/jiang-di-dan-gu-chun.html</id>
+        <link href="https://felixhoi.github.io/jiang-di-dan-gu-chun.html"/>
+        <id>https://felixhoi.github.io/jiang-di-dan-gu-chun.html</id>
             <category term="膽固醇"/>
             <category term="健康"/>
 
@@ -351,8 +351,8 @@
         <author>
             <name>Felix Hoi</name>
         </author>
-        <link href="https://felixhoi.github.io/felixhoi.github.io/raspberry-pi-shu-mei-pai-kong-zhi-men-suo.html"/>
-        <id>https://felixhoi.github.io/felixhoi.github.io/raspberry-pi-shu-mei-pai-kong-zhi-men-suo.html</id>
+        <link href="https://felixhoi.github.io/raspberry-pi-shu-mei-pai-kong-zhi-men-suo.html"/>
+        <id>https://felixhoi.github.io/raspberry-pi-shu-mei-pai-kong-zhi-men-suo.html</id>
             <category term="智能家居 DIY"/>
             <category term="Raspberry Pi 樹莓派"/>
 
@@ -444,8 +444,8 @@
         <author>
             <name>Felix Hoi</name>
         </author>
-        <link href="https://felixhoi.github.io/felixhoi.github.io/raspberry-pi-shu-mei-pai-kong-zhi-dian-suo.html"/>
-        <id>https://felixhoi.github.io/felixhoi.github.io/raspberry-pi-shu-mei-pai-kong-zhi-dian-suo.html</id>
+        <link href="https://felixhoi.github.io/raspberry-pi-shu-mei-pai-kong-zhi-dian-suo.html"/>
+        <id>https://felixhoi.github.io/raspberry-pi-shu-mei-pai-kong-zhi-dian-suo.html</id>
             <category term="智能家居 DIY"/>
             <category term="Raspberry Pi 樹莓派"/>
             <category term="Python"/>
